@@ -46,7 +46,7 @@ This plugin requires an Apibara API key.
 
 Apibara offers a free plan that can be used to connect the plugin and display vehicle auction data. Paid plans are optional and intended for higher usage limits.
 
-Pricing: https://apibara.tech/en/pricing
+Pricing: https://apibara.tech/en/products/vehicle-auction-data-api
 
 = External Service =
 
@@ -70,7 +70,7 @@ Apibara service pages:
 
 * Terms of Service: https://apibara.tech/en/terms
 * Privacy Policy: https://apibara.tech/en/privacy
-* Pricing: https://apibara.tech/en/pricing
+* Pricing: https://apibara.tech/en/products/vehicle-auction-data-api
 * Website: https://apibara.tech
 
 Apibara is not affiliated with, endorsed by, or sponsored by Copart, IAAI, or their parent companies. All trademarks belong to their respective owners.
