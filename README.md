@@ -146,9 +146,16 @@ Recommended screenshots:
 Example:
 
 ```markdown
-![Vehicle listing page](screenshots/screenshot-1-listings.png)
-![Single vehicle page](screenshots/screenshot-2-single-vehicle.png)
-![Vehicle filters](screenshots/screenshot-3-filters.png)
+![Vehicle listing page](screenshots/screenshot-1.png)
+![Single vehicle page](screenshots/screenshot-2.png)
+![Contact form](screenshots/screenshot-3.png)
+![Statistic page](screenshots/screenshot-4.png)
+![General Settings](screenshots/screenshot-5.png)
+![Filter panel](screenshots/screenshot-6.png)
+![Design settings](screenshots/screenshot-7.png)
+![Fields settings](screenshots/screenshot-8.png)
+![Contact form settings](screenshots/screenshot-9.png)
+![Ino](screenshots/screenshot-10.png)
 ```
 
 ## Roadmap
